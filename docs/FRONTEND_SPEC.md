@@ -1,9 +1,22 @@
 # FRONTEND_SPEC.md
 
+## Stack
+
+- **Build**: Vite
+- **SPA**: React + TypeScript
+- **Routing**: react-router-dom ^7
+- **HTTP**: axios
+- **UI**: Tailwind CSS v4
+- **Server state**: TanStack Query ^5
+- **Client state**: Zustand ^4
+- **Forms**: React Hook Form ^7
+- **Validation**: Zod ^3
+- **Testing**: Vitest
+
 ## Arquitectura general
 
 - Tipo: SPA (Single Page Application)
-- Framework sugerido: React + TypeScript
+- Framework: React + TypeScript
 - Routing: basado en roles
 - Protección de rutas según permisos
 
