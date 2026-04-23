@@ -1,4 +1,4 @@
-docs/*
+ai/*
 .env
 ai/
 node_modules/
